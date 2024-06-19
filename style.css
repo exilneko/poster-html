@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+}
+
+div {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+
+}
+
+#flower {
+    width: 100%;
+    border: 10px solid white;
+}
+
+p {
+    color: white;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    text-transform: uppercase;
+    margin-left: 35%;
+
+}
+
+footer{
+    color: white;
+    margin-top: 100px;
+}
